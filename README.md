@@ -8,7 +8,7 @@ Flutter developer
  * [aso.dev](https://aso.dev)
  * [meows.app](https://meows.app)
 
-🌍  I'm currently based in Kazakhstan
+🌍  I'm currently based in Serbia
 
 📫 You can contact me at [i@luvti.com](mailto:i@luvti.com)
 
